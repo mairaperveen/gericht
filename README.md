@@ -4,7 +4,7 @@
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
 ## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+New major projects coming soon, subscribe to the mailing list to stay up to date
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
@@ -18,4 +18,3 @@ You might be wondering, what are the prerequisites for building such an amazing 
 - From soft and pleasant animations to complex gradients
 - Perfectly placed media queries for satisfactory responsiveness covering almost devices
 - And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
-![image](https://github.com/mairaperveen/gericht/assets/128048488/644ef2f2-28a3-4b0d-96b6-a4ff0958da48)
